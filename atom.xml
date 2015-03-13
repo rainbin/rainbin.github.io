@@ -4,7 +4,7 @@
   <title><![CDATA[rainbin]]></title>
   <link href="http://blog.rainbin.com/atom.xml" rel="self"/>
   <link href="http://blog.rainbin.com/"/>
-  <updated>2015-03-12T17:21:19-07:00</updated>
+  <updated>2015-03-12T17:31:27-07:00</updated>
   <id>http://blog.rainbin.com/</id>
   <author>
     <name><![CDATA[Rain Bin]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[four]]></title>
+    <link href="http://blog.rainbin.com/2015/03/12/four/"/>
+    <updated>2015-03-12T17:31:16-07:00</updated>
+    <id>http://blog.rainbin.com/2015/03/12/four</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[third]]></title>
+    <link href="http://blog.rainbin.com/2015/03/12/third/"/>
+    <updated>2015-03-12T17:27:07-07:00</updated>
+    <id>http://blog.rainbin.com/2015/03/12/third</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[secondary]]></title>
